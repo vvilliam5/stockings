@@ -5,18 +5,18 @@
     "main.js.map": "/stockings/static/js/main.c686f578.chunk.js.map",
     "runtime-main.js": "/stockings/static/js/runtime-main.5e1b462d.js",
     "runtime-main.js.map": "/stockings/static/js/runtime-main.5e1b462d.js.map",
-    "static/js/2.a35765fb.chunk.js": "/stockings/static/js/2.a35765fb.chunk.js",
-    "static/js/2.a35765fb.chunk.js.map": "/stockings/static/js/2.a35765fb.chunk.js.map",
+    "static/js/2.144ebe3a.chunk.js": "/stockings/static/js/2.144ebe3a.chunk.js",
+    "static/js/2.144ebe3a.chunk.js.map": "/stockings/static/js/2.144ebe3a.chunk.js.map",
     "index.html": "/stockings/index.html",
-    "precache-manifest.59dcfaf9d62b3bc33ec03f8f18f35dc1.js": "/stockings/precache-manifest.59dcfaf9d62b3bc33ec03f8f18f35dc1.js",
+    "precache-manifest.14845b38827122569dbeda757032b877.js": "/stockings/precache-manifest.14845b38827122569dbeda757032b877.js",
     "service-worker.js": "/stockings/service-worker.js",
     "static/css/main.4e4d00e8.chunk.css.map": "/stockings/static/css/main.4e4d00e8.chunk.css.map",
-    "static/js/2.a35765fb.chunk.js.LICENSE": "/stockings/static/js/2.a35765fb.chunk.js.LICENSE",
+    "static/js/2.144ebe3a.chunk.js.LICENSE": "/stockings/static/js/2.144ebe3a.chunk.js.LICENSE",
     "static/media/landing.css": "/stockings/static/media/landing_bg.87e9e32f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5e1b462d.js",
-    "static/js/2.a35765fb.chunk.js",
+    "static/js/2.144ebe3a.chunk.js",
     "static/css/main.4e4d00e8.chunk.css",
     "static/js/main.c686f578.chunk.js"
   ]
