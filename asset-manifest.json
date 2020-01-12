@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/stockings/static/css/main.617776da.chunk.css",
-    "main.js": "/stockings/static/js/main.a88856b5.chunk.js",
-    "main.js.map": "/stockings/static/js/main.a88856b5.chunk.js.map",
+    "main.js": "/stockings/static/js/main.3ffa2de1.chunk.js",
+    "main.js.map": "/stockings/static/js/main.3ffa2de1.chunk.js.map",
     "runtime-main.js": "/stockings/static/js/runtime-main.5e1b462d.js",
     "runtime-main.js.map": "/stockings/static/js/runtime-main.5e1b462d.js.map",
     "static/js/2.bc30f048.chunk.js": "/stockings/static/js/2.bc30f048.chunk.js",
     "static/js/2.bc30f048.chunk.js.map": "/stockings/static/js/2.bc30f048.chunk.js.map",
     "index.html": "/stockings/index.html",
-    "precache-manifest.40fd5d39070ce73b4df81a627a82406b.js": "/stockings/precache-manifest.40fd5d39070ce73b4df81a627a82406b.js",
+    "precache-manifest.cb1acab0a103d32e897a5df90b7dc5bf.js": "/stockings/precache-manifest.cb1acab0a103d32e897a5df90b7dc5bf.js",
     "service-worker.js": "/stockings/service-worker.js",
     "static/css/main.617776da.chunk.css.map": "/stockings/static/css/main.617776da.chunk.css.map",
     "static/js/2.bc30f048.chunk.js.LICENSE": "/stockings/static/js/2.bc30f048.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.5e1b462d.js",
     "static/js/2.bc30f048.chunk.js",
     "static/css/main.617776da.chunk.css",
-    "static/js/main.a88856b5.chunk.js"
+    "static/js/main.3ffa2de1.chunk.js"
   ]
 }
