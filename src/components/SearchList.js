@@ -23,7 +23,7 @@ class SearchList extends React.Component {
     }
     render() {
         return (
-            <div>{console.log(this.state.images)}
+            <div>
                 <SearchBar />
                 <ImageList image={this.state.images} />
             </div>

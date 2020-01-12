@@ -1,6 +1,6 @@
 import React from 'react';
 import '../assets/css/landing.css'
-import SearchBar from './SearchBar'
+import LandingSearchBar from './LandingSearchBar';
 
 class Landing extends React.Component {
     render() {
@@ -8,8 +8,8 @@ class Landing extends React.Component {
             <div className="main">
                 <div>
                     <h1 className="header">STOCKINGS</h1>
-                    <h3 className="header-little">Free stock royalty-free HD images</h3>
-                    <SearchBar />
+                    <h3 className="header-little">The best free stock royalty-free HD images available on the internet</h3>
+                    <LandingSearchBar />
                 </div>
             </div>
         )
