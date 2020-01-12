@@ -22,7 +22,7 @@ class App extends React.Component {
             <div className="ui container fluid">
                 <Router history={history}>
                     <div>
-                        <Route path="http://vvilliam5.github.io/stockings/" exact component={Landing} />
+                        <Route path="https://vvilliam5.github.io/stockings/" exact component={Landing} />
                         <Route path="/search/:id" component={SearchList} />
                         <Route path="/photo/:url" component={Modal} />
                     </div>
