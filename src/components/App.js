@@ -20,9 +20,9 @@ class App extends React.Component {
     render() {
         return (
             <div className="ui container fluid">
-                <Router history={history}>
+                <Router history={history} basename="/stockings">
                     <div>
-                        <Route path="https://vvilliam5.github.io/stockings/" exact component={Landing} />
+                        <Route path="/stockings" exact component={Landing} />
                         <Route path="/search/:id" component={SearchList} />
                         <Route path="/photo/:url" component={Modal} />
                     </div>
