@@ -10,7 +10,7 @@ class Modal extends React.Component {
     }
     render() {
         return ReactDOM.createPortal(
-            <div className="ui dimmer modals visible active">{console.log(this.state.imgLink)}
+            <div className="ui dimmer modals visible active">{console.log(this.props)}
                 <div className="ui standard modal visible active">
                     <img style={{ width: 'inherit' }} src={`https://images.unsplash.com/${this.props.match.params.url}`}></img>
                     <a href={`https://images.unsplash.com/${this.props.match.params.url}`}><button onClick={this.getDownloadLink} className="ui button primary">Download</button></a>
